@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fanisah! 
 - 👀 I’m interested in data science and cyber security
-- 🌱 I’m currently learning basic programming with C++
-- 💞️ I’m open for any discussions and talks (especially in English hihihi)!
+- 💞️ I’m open for any discussions and talks
 - 📫 Reach me out on Instagram @its.fani
 
 <!---
